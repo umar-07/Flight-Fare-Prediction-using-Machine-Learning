@@ -1,1 +1,1 @@
-# Flight-Fare-Prediction-using-Machine-Learning
+# We are using machine learning to predict price of flights.
